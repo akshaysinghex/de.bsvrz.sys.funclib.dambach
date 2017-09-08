@@ -5,7 +5,7 @@
 
 		<groupId>de.bsvrz.sys</groupId>
 	<artifactId>de.bsvrz.sys.funclib.dambach</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1-SNAPSHOT</version>
 
 	<name>Funktionsbibliothek Dambach</name>
 
