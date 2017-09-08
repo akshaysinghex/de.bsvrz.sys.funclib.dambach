@@ -1,0 +1,5 @@
+-exportcontents: \
+    de.bsvrz.sys.funclib.*
+-sources: true
+
+Bundle-Name: NERZ Funktionsbibliothek Dambach
